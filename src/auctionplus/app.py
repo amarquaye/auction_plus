@@ -1,5 +1,5 @@
 """
-A simple implementation of monopoly plus using beeware
+A simple implementation of an auctioning app using beeware
 """
 from random import randint, choice
 from functools import partial
