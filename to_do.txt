@@ -1,0 +1,5 @@
+List of features to be be added soon.
+
+A better ui once beeware improves its ui styles.
+More options to continue making bids and make the game more interactive.
+An online environment where users can log in and make bids globally.
